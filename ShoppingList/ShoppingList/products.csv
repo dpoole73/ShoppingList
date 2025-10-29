@@ -1,0 +1,10 @@
+product_name,pcc_section,pcc_order,fredmeyer_section,fredmeyer_order
+Apples,Produce,1,Produce,1
+Tomatoes,Produce,2,Produce,2
+Bread,Bakery,1,Bakery,1
+Flour,Baking,1,Baking,1
+Cheddar,Cheese,1,Dairy,1
+Shredded Cheese,Cheese,2,Dairy,2
+Brie,Fancy Cheese,1,Cheese,1
+Milk,Dairy,1,Diary,3
+Tide,,,Household Supplies,1
