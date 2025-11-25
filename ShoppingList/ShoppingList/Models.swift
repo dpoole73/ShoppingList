@@ -17,6 +17,7 @@ struct ProductLocation: Identifiable, Codable, Hashable {
     let productId: String
     let storeId: String
     let sectionId: String
+    let order: Int
 }
 
 struct ShoppingListItem: Identifiable, Codable {

@@ -1,10 +1,169 @@
 product_name,pcc_section,pcc_order,fredmeyer_section,fredmeyer_order
+Artisan Loaves,Bakery,1,Bakery,1
+Bagels,Bakery,2,Bakery,2
+Bread,Bakery,3,Bakery,3
+Buns,Bakery,4,Bakery,4
+Croissants,Bakery,5,Bakery,5
+Donuts,Bakery,6,Bakery,6
+Muffins,Bakery,7,Bakery,7
+Pastries,Bakery,8,Bakery,8
+Pita Bread,Bakery,9,Bakery,9
+Tortillas,Bakery,10,Bakery,10
+Baking Powder,Baking,1,Baking,1
+Baking Soda,Baking,2,Baking,2
+Brown Sugar,Baking,3,Baking,3
+Cake Mix,Baking,4,Baking,4
+Chocolate Chips,Baking,5,Baking,5
+Cocoa Powder,Baking,6,Baking,6
+Cooking Spray,Baking,7,Baking,7
+Cornstarch,Baking,8,Baking,8
+Flour,Baking,9,Baking,9
+Frosting,Baking,10,Baking,10
+Powdered Sugar,Baking,11,Baking,11
+Vanilla Extract,Baking,12,Baking,12
+White Sugar,Baking,13,Baking,13
+Yeast,Baking,14,Baking,14
+Broth,Canned Goods,1,Canned Goods,1
+Canned Beans,Canned Goods,2,Canned Goods,2
+Canned Corn,Canned Goods,3,Canned Goods,3
+Canned Tomatoes,Canned Goods,4,Canned Goods,4
+Canned Tuna,Canned Goods,5,Canned Goods,5
+Jam,Canned Goods,6,Canned Goods,6
+Kalamata Olives,Canned Goods,7,Canned Goods,7
+Peanut Butter,Canned Goods,8,Canned Goods,8
+Pickles,Canned Goods,9,Canned Goods,9
+Soup,Canned Goods,10,Canned Goods,10
+Tomato Paste,Canned Goods,11,Canned Goods,11
+Tomato Sauce,Canned Goods,12,Canned Goods,12
+Cheddar,Cheese,1,Cheese,1
+Cheddar Slices,Cheese,2,Cheese,2
+Cream Cheese,Cheese,3,Cheese,3
+Havarti Slices,Cheese,4,Cheese,4
+Parmesan,Cheese,5,Cheese,5
+Provolone,Cheese,6,Cheese,6
+Provolone Slices,Cheese,7,Cheese,7
+Shredded Mexican Cheese,Cheese,8,Cheese,8
+Smoked Gouda Slices,Cheese,9,Cheese,9
+Swiss,Cheese,10,Cheese,10
+Apple Cider Vinegar,Condiments & Spices,1,Condiments & Spices,1
+Balsamic Vinegar,Condiments & Spices,2,Condiments & Spices,2
+BBQ Sauce,Condiments & Spices,3,Condiments & Spices,3
+Garlic Powder,Condiments & Spices,4,Condiments & Spices,4
+Hot Sauce,Condiments & Spices,5,Condiments & Spices,5
+Ketchup,Condiments & Spices,6,Condiments & Spices,6
+Mayonnaise,Condiments & Spices,7,Condiments & Spices,7
+Mustard,Condiments & Spices,8,Condiments & Spices,8
+Olive Oil,Condiments & Spices,9,Condiments & Spices,9
+Onion Powder,Condiments & Spices,10,Condiments & Spices,10
+Paprika,Condiments & Spices,11,Condiments & Spices,11
+Pepper,Condiments & Spices,12,Condiments & Spices,12
+Red Wine Vinegar,Condiments & Spices,13,Condiments & Spices,13
+Salad Dressing,Condiments & Spices,14,Condiments & Spices,14
+Salt,Condiments & Spices,15,Condiments & Spices,15
+Soy Sauce,Condiments & Spices,16,Condiments & Spices,16
+Vegetable Oil,Condiments & Spices,17,Condiments & Spices,17
+White Vinegar,Condiments & Spices,18,Condiments & Spices,18
+White Wine Vinegar,Condiments & Spices,19,Condiments & Spices,19
+Butter,Dairy,1,Dairy,1
+Cottage Cheese,Dairy,2,Dairy,2
+Eggs,Dairy,3,Dairy,3
+Half & Half,Dairy,4,Dairy,4
+Milk,Dairy,5,Dairy,5
+Sour Cream,Dairy,6,Dairy,6
+Whipping Cream,Dairy,7,Dairy,7
+Yogurt,Dairy,8,Dairy,8
+Brie,Fancy Cheese,1,Fancy Cheese,1
+Feta,Fancy Cheese,2,Fancy Cheese,2
+Goat Cheese,Fancy Cheese,3,Fancy Cheese,3
+Mozzarella,Fancy Cheese,4,Fancy Cheese,4
+Frozen Chicken Nuggets,Frozen Foods,1,Frozen Foods,1
+Frozen Dinners,Frozen Foods,2,Frozen Foods,2
+Frozen Fish Fillets,Frozen Foods,3,Frozen Foods,3
+Frozen French Fries,Frozen Foods,4,Frozen Foods,4
+Frozen Fruit,Frozen Foods,5,Frozen Foods,5
+Frozen Pizza,Frozen Foods,6,Frozen Foods,6
+Frozen Vegetables,Frozen Foods,7,Frozen Foods,7
+Frozen Waffles,Frozen Foods,8,Frozen Foods,8
+Ice Cream,Frozen Foods,9,Frozen Foods,9
+Aluminum Foil,Household,1,Household,1
+Cleaning Spray,Household,2,Household,2
+Dish Soap,,,Household,3
+Fabric Softener,,,Household,4
+Paper Towels,,,Household,5
+Plastic Wrap,,,Household,6
+Sandwich Bags,,,Household,7
+Sponges,,,Household,8
+Tide,,,Household,9
+Toilet Paper,,,Household,10
+Trash Bags,,,Household,11
+Fake Bacon,Meat & Seafood,1,Meat & Seafood,1
+Fake Ground Beef,Meat & Seafood,2,Meat & Seafood,2
+Steaks,Meat & Seafood,3,Meat & Seafood,3
+Veggie Brats,Meat & Seafood,4,Meat & Seafood,4
+Veggie Breakfast Sausage,Meat & Seafood,5,Meat & Seafood,5
+Veggie Burgers,Meat & Seafood,6,Meat & Seafood,6
+Veggine Hot Dogs,Meat & Seafood,7,Meat & Seafood,7
+Cereal,Pantry,1,Pantry,1
+Chips,Pantry,2,Pantry,2
+Coffee,Pantry,3,Pantry,3
+Crackers,Pantry,4,Pantry,4
+Granola,Pantry,5,Pantry,5
+Nuts,Pantry,6,Pantry,6
+Oatmeal,Pantry,7,Pantry,7
+Popcorn,Pantry,8,Pantry,8
+Pretzels,Pantry,9,Pantry,9
+Tea,Pantry,10,Pantry,10
+Trail Mix,Pantry,11,Pantry,11
+Couscous,Pasta & Grains,1,Pasta & Grains,1
+Instant Noodles,Pasta & Grains,2,Pasta & Grains,2
+Jasmine Rice,Pasta & Grains,3,Pasta & Grains,3
+Long Grain Rice,Pasta & Grains,4,Pasta & Grains,4
+Macaroni,Pasta & Grains,5,Pasta & Grains,5
+Pasta Sauce,Pasta & Grains,6,Pasta & Grains,6
+Quinoa,Pasta & Grains,7,Pasta & Grains,7
+Ramen,Pasta & Grains,8,Pasta & Grains,8
+Short Grain Rice,Pasta & Grains,9,Pasta & Grains,9
+Spaghetti,Pasta & Grains,10,Pasta & Grains,10
+Conditioner,Personal Care,1,Personal Care,1
+Deodorant,Personal Care,2,Personal Care,2
+Lotion,Personal Care,3,Personal Care,3
+Razor Blades,Personal Care,4,Personal Care,4
+Shampoo,Personal Care,5,Personal Care,5
+Soap,Personal Care,6,Personal Care,6
+Toothpaste,Personal Care,7,Personal Care,7
 Apples,Produce,1,Produce,1
-Tomatoes,Produce,2,Produce,2
-Bread,Bakery,1,Bakery,1
-Flour,Baking,1,Baking,1
-Cheddar,Cheese,1,Dairy,1
-Shredded Cheese,Cheese,2,Dairy,2
-Brie,Fancy Cheese,1,Cheese,1
-Milk,Dairy,1,Diary,3
-Tide,,,Household Supplies,1
+Avocado,Produce,2,Produce,2
+Bananas,Produce,3,Produce,3
+Bell Peppers,Produce,4,Produce,4
+Blueberries,Produce,5,Produce,5
+Broccoli,Produce,6,Produce,6
+Carrots,Produce,7,Produce,7
+Cauliflower,Produce,8,Produce,8
+Celery,Produce,9,Produce,9
+Cucumber,Produce,10,Produce,10
+Fresh Basil,Produce,11,Produce,11
+Fresh Cilantro,Produce,12,Produce,12
+Fresh Parsley,Produce,13,Produce,13
+Fresh Taragon,Produce,14,Produce,14
+Fresh Thyme,Produce,15,Produce,15
+Garlic,Produce,16,Produce,16
+Grapes,Produce,17,Produce,17
+Jalape�os,Produce,18,Produce,18
+Kale,Produce,19,Produce,19
+Lemons,Produce,20,Produce,20
+Lettuce,Produce,21,Produce,21
+Limes,Produce,22,Produce,22
+Mushrooms,Produce,23,Produce,23
+Onions,Produce,24,Produce,24
+Oranges,Produce,25,Produce,25
+Pineapple,Produce,26,Produce,26
+Potatoes,Produce,27,Produce,27
+Raspberries,Produce,28,Produce,28
+Romaine Hearts,Produce,29,Produce,29
+Salad Mix,Produce,30,Produce,30
+Spinach,Produce,31,Produce,31
+Strawberries,Produce,32,Produce,32
+Sweet Potatoes,Produce,33,Produce,33
+Tomatoes,Produce,34,Produce,34
+Watermelon,Produce,35,Produce,35
+Zucchini,Produce,36,Produce,36

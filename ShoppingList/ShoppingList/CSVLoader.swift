@@ -60,7 +60,8 @@ struct CSVLoader {
                             id: locId,
                             productId: productName,
                             storeId: storeName,
-                            sectionId: sectionId
+                            sectionId: sectionId,
+                            order: order
                         )
                         productLocations.append(loc)
                     }

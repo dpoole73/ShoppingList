@@ -201,17 +201,28 @@ struct ContentView: View {
     
     var filteredProducts: [Product] {
         // Get all products that exist in the current store
-        let availableInStore = productStore.products.filter { product in
-            productStore.location(for: product, in: selectedStore) != nil
+        // 1. Pair each product with its order in the current store
+        let availableInStore: [(product: Product, order: Int)] = productStore.products.compactMap { product -> (product: Product, order: Int)? in
+            guard let location = productStore.productLocations.first(where: {
+                $0.productId == product.name && $0.storeId == selectedStore.id
+            }) else {
+                return nil
+            }
+            return (product: product, order: location.order)
         }
 
-        // If there’s no search text, show all available ones for this store
-        guard !searchText.isEmpty else { return availableInStore }
-
-        // Otherwise, return only those that match the search text
-        return availableInStore.filter {
-            $0.name.localizedCaseInsensitiveContains(searchText)
+        let filtered: [(product:Product, order: Int)]
+        if searchText.isEmpty {
+            filtered = availableInStore
+        } else {
+            filtered = availableInStore.filter {
+                $0.product.name.localizedCaseInsensitiveContains(searchText)
+            }
         }
+        
+        let sortedByOrderInSection = filtered.sorted {$0.order < $1.order }
+        
+        return sortedByOrderInSection.map(\.product)
     }
 
 
